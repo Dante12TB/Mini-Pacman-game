@@ -1,5 +1,5 @@
 # Mini-Pacman-game
-This is a mini pacman game where you simply move the Pacman around the screen whitout any distraction: no obstacles, no ghosts and no point, just a simply game to relax yourself!
+This is a mini pacman game for Arduino where you simply move the Pacman around the screen whitout any distraction: no obstacles, no ghosts and no point, just a simply game to relax yourself!
 
 Attention:
 for play the game, you need to enable the "toggle autoscroll" in the serial monitor of the Arduino IDE:
